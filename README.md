@@ -1,4 +1,4 @@
-# Silver Screen
+# MyFlix Web Application
 Netflix Clone and your personal movie database with features like-: Adding your favorite movies to your peronalised list, Search all Movies and Series available in all languages, and seeing the streaming platforms on which Movie/Series is available.
 
 # How to run Project
